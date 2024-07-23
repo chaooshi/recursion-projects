@@ -31,3 +31,22 @@ cd recursion-projects/<chapter_number>
 ```
 node <project_file>.js
 ```
+
+### Chapter 9
+
+Chapter 9 includes projects using the Turtle module. I used Python instead of JavaScript as suggested by the book. To interpret Python code on your machine, you need to install a Python interpreter. You can download it from the [official Python website](https://www.python.org/downloads/).
+
+Next, you need to install the pythonTurtle module:
+
+```
+pip install PythonTurtle
+```
+
+To run the code, use the following command in your terminal:
+
+```
+python3 <file_name>.py
+```
+
+For setting up the environment and other Python configurations in VS Code,
+refer to [VS Code Python Tutorial](https://code.visualstudio.com/docs/python/python-tutorial) document.
